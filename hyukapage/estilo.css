@@ -1,0 +1,33 @@
+.text-from__ul {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position:relative;
+    left: 190px;
+    /*top:30px;*/
+    right:50px;
+    bottom:285px;
+    font-size: 17px;
+    
+}
+
+.photo {
+     padding: 20px;
+    /* margin-left: 30px; */
+     /*margin-bottom: 10px; 
+     /*width: 450px;*/
+
+}
+
+
+.text-form__h1 {
+   position: relative;
+   left: 380px;
+   /*top: 30px;*/
+   padding-left: 20px;
+   bottom: 580px;
+   background: linear-gradient(50deg, #afe2b3,#dddcae,#FFC090); 
+   width: 900px;
+   border-radius: 10px; 
+   margin: 15px;
+   
+
+}

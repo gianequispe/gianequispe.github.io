@@ -1,26 +1,75 @@
 .li-guiones a {
-    color:rgb(113, 141, 218);
+    color:#7c9ae0;
 }
 
+.li-guiones {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    position: relative;
+    left:25px;
+}
+
+
+.li-guiones__h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    left:25px;
+
+
+ }
+
+.li-guiones b {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+}
+
+
 center b {
-    color: rgb(155, 78, 207);
+    color: #998CEB;
 }
  
 
 .contact-form__h3 {
-    color: rgb(92, 148, 117);
-    font-family: rockwell;
-    font-size: 25px;
-    background-color: rgb(236, 171, 202);    
+    
+    line-height:30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:25px;
+    text-indent:20px;
+    background: linear-gradient(50deg, #45793a,#bed1bb,#45793a); 
+    border-radius: 10px; 
     padding: 5px;
-    margin: 10px;
+    margin: 20px;
+    
 }
 
 
-.title-form__h1 {
-     color:#7173da;
-     font-size: 38px;
+.title-form__h1  {
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     position: relative;
+     color:#998CEB;
+     font-size: 40px;
+     left: 18px;
+     /*right:50px;*/
+    
+     
 }
+
+.image-form__img {
+    height:683px;
+    width:1024px;
+    border-radius:40px;
+    
+} 
+
+
+.desplazado-derecha__a {
+     position: relative;
+     font-size: 10px;
+     left: 395px;
+}
+
+
 
 
 
