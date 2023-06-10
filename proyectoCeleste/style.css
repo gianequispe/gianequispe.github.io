@@ -1,0 +1,377 @@
+* {
+    background-color: #222;
+}
+
+#contenedor{
+    width: 55em;
+    height: 55em;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    background-color:#222;
+}
+
+#primera-barra {
+    border: 1px solid black;
+    height: 60px;
+    background-color: black;
+}
+
+.izq-img img{
+    height: 40px;
+    padding: 10px;
+    float: left;
+    background: none;
+}
+
+.der-img img {
+    height: 40px;
+    padding: 10px;
+    float: right;
+    background: none;
+}
+
+.yt {
+    padding: 1em;
+}
+
+.texto h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-size: 1.5em;
+    line-height: 1.15;
+}
+
+.texto a {
+    text-decoration: none;
+    color: #98f4f7;
+}
+
+a {
+    text-decoration: none;
+}
+
+#segundo-cuadro {
+    width: 55em;
+    border: 2px solid #444;
+    border-bottom: 32px solid #444;
+    float: left;
+    background-color: none;
+    padding:15px;
+    box-sizing: border-box;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.nintendo {
+    height: 2.5em;
+    width: 14em;
+    background-color: red;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+}
+
+.nintendo img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.nintendo span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.play img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.play span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.play {
+    height: 2.5em;
+    width: 14em;
+    background-color: #0072ce;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+    
+}
+
+.xbox img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.xbox span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.xbox {
+    height: 2.5em;
+    width: 14em;
+    background-color: #107c10;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+}
+
+.itch img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.itch span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.itch {
+    height: 2.5em;
+    width: 14em;
+    background-color: #fa5c5c;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+}
+
+.steam img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.steam span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.steam {
+    height: 2.5em;
+    width: 14em;
+    background-color: #282e39;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+}
+
+.epic img {
+    width: 32px;
+    margin: 5px;
+    float: left;
+    background: none;
+}
+
+.epic span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    margin: 13px 0px 0 16px;
+    float: left;
+    background: none;
+}
+
+.epic {
+    height: 2.5em;
+    width: 14em;
+    background-color: #444;
+    padding: 14px;
+    border-radius: 5px;
+    float: left;
+    margin: .5em 0em 1em 1.4em;
+}
+
+.fan-gamer img {
+    width: 12em;
+    border-radius: 8px;
+    margin: 25px 0px 0px 5px;
+}
+
+.fan-gamer span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center;
+}
+
+.merch a {
+    color: #777;
+    font-weight: bold;
+    text-align: center;
+    float: left;
+    width: 22%;
+    margin: 0em 0em 1em 1.1em;
+}
+
+.yetee img {
+    width: 12em;
+    border-radius: 8px;
+    margin: 25px 0px 0px 5px;
+}
+
+.yetee span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center;
+}
+
+.ost img {
+    width: 12em;
+    border-radius: 8px;
+    margin: 25px 0px 0px 5px;
+    
+}
+
+.ost span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center;
+}
+
+.b-side img{
+    width: 12em;
+    border-radius: 8px;
+    margin: 25px 0px 0px 5px;
+}
+
+.b-side span {
+    color: white;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    text-align: center;
+}
+
+#fotos {
+    margin-top: 2%;
+}
+
+#fotos a {
+    width: 49%;
+    margin-bottom: 2%;
+    float: left;
+}
+
+#fotos img {
+    width: 100%;
+}
+
+.impar {
+    margin-left: 2%;
+}
+
+#fotos iframe {
+    padding: none;
+}
+
+.ultimo {
+    width: 55em;
+    height: 55em;
+    border: 1px solid transparent;
+    margin: 0 auto;
+    background-color: #222;
+}
+
+.nombres  {
+    margin-top: 5em;
+    width: 50%;
+    float: left;
+    text-align: right;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.nombres a {
+    color: #44c5f0;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    line-height: 2em;
+}
+
+.mmgs {
+    margin-top: 5.5em;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding-top: 25px;
+    text-align:left
+}
+
+.contact {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    text-align:center;
+}
+
+.contact a {
+    color: #44c5f0;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    line-height: 2em;
+}
+
+.contact span {
+  color: #fff;;
+  font-weight: bold;
+  font-family: 'Montserrat', Arial, sans-serif;
+}
+
+.esrb {
+    width: 49%;
+    float: left;
+    text-align: right;
+    margin-top: 50px;
+}
+
+.texto-esrb {
+    width: 49%;
+    float: right;
+    text-align: left;
+    margin-top: 38px;
+    font-size: 0.9em;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Montserrat', Arial, sans-serif;
+    line-height: 1.8em;
+}
